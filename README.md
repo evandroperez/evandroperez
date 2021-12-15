@@ -1,0 +1,4 @@
+- 👋 Olá , eu sou Evandro Perez
+- 👀 Interessado em desenvolvimento
+- 🌱 Estou aprendendo JAVASCRIPT/REACT NATIVE
+- 📫 LINKEDIN: https://www.linkedin.com/in/evandroperez/

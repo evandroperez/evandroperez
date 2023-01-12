@@ -1,4 +1,3 @@
 - 👋 Olá , eu sou Evandro Perez
 - 👀 Interessado em desenvolvimento
-- 🌱 Estou aprendendo JAVASCRIPT/PYTHON
 - 📫 LINKEDIN: https://www.linkedin.com/in/evandroperez/
